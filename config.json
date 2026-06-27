@@ -1,0 +1,9 @@
+{
+  "api_server": "http://remotedesk.hglk.link:21114",
+  "id_server": "remotedesk.hglk.link",
+  "relay_server": "remotedesk.hglk.link",
+  "key": "LyAnbMUs2DAvCngHCVn8rIXXr48L8bBlSK8xgypAzek=",
+  "app_name": "HostGrap Remote Support",
+  "exe_name": "HostGrap-Support",
+  "icon": ""
+}
